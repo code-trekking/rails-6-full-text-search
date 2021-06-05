@@ -1,7 +1,7 @@
-# USAGE
-Rails 6 + postgres + full text search
+# Rails 6 + PostgreSQL + full text search
 
-# USAGE
+
+## USAGE
 
 Traveller.search(<search-term>)
 
