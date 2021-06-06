@@ -3,5 +3,5 @@
 
 ## USAGE
 
-Traveller.search(<search-term>)
+Traveller.search(`search-term`)
 
