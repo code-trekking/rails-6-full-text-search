@@ -1,4 +1,4 @@
-# Rails 6 + PostgreSQL + full text search
+# Rails 6 + PostgreSQL + Full text search
 
 
 ## USAGE
